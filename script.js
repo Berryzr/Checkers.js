@@ -255,7 +255,7 @@ window.onload = function() {
           if(!piece.canJumpAny()) {
             piece.move(tile);
           } else {
-            alert("You must jump when possible!");
+            alert("What's taking so long just jump already!");
           }
         }
       }
