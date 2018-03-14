@@ -6,24 +6,24 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
-  color: #333333;
-  font-family: "Lato", Calibri, sans-serif;
+  color: #333325;
+  font-family: "Lato", Helvetica, sans-serif;
   font-size: 16px;
-  background-color: #3A3042; }
+  background-color: #3A3044; }
   html h2, body h2 {
     font-size: 1.3em; }
   html h3, body h3 {
     font-size: 1.1em; }
   html a, body a {
     text-decoration: none;
-    color: #333333;
-    font-weight: 700; }
+    color: #333345;
+    font-weight: 750; }
     html a:hover, body a:hover {
       text-decoration: underline; }
   html hr, body hr {
     border: 0;
     height: 1px;
-    background-color: #333;
+    background-color: #768;
     background-image: linear-gradient(to right, #333333, #ccc); }
   html .clearfix, body .clearfix {
     clear: both; }
